@@ -1,0 +1,2 @@
+# Bounti
+BOUNTI aims to remove the current issues prominent in DAOs regarding community coordination and rewards. Therefore BOUNTI will allow its users to be a member of multiple DAOs, whilst still having access to modern on-chain task management, governance and honest rewards. BOUNTI aims to unite the missing factors of DAO operations with the modernisation of coordinating a community of any scale, trajectory and skillset.
